@@ -76,7 +76,7 @@ print()
 x = list(map(int, input("Enter multiple values: ").split()))
 print("List of students: ", x) 
 	Using List comprehension : 
-List comprehension is an elegant way to define and create list in Python. We can create lists just like mathematical statements in one line only.
+List comprehension is an elegant way to define and create list in Python. We can create lists just like mathematical statements in git one line only.
  It is also used in getting multiple inputs from a user. 
 Example :
 # Python program showing
